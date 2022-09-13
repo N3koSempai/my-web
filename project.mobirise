@@ -53,15 +53,26 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/crypto-fav-128x128.png",
-    "mbrsiteDomain": "omtkiw5rsy",
+    "mbrsiteDomain": "dnmqtgxgmv",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "google-analytics": "<!-- Hitsteps CODE -->\n<script type=\"text/javascript\">(function(){var hstc=document.createElement('script'); hstc.src='https://cdnhst.xyz/code?code=f6b13013aabf1e7b39d8a80b27465175';hstc.async=true;var htssc = document.getElementsByTagName('script')[0];htssc.parentNode.insertBefore(hstc, htssc);})();\n</script><noscript><a href=\"http://www.hitsteps.com/\"><img src=\"//cdnhst.xyz/code?mode=img&amp;code=f6b13013aabf1e7b39d8a80b27465175\" alt=\"web stats\" width=\"1\" height=\"1\" />web statistics</a></noscript>\n<!-- Hitsteps CODE -->",
-    "cookiesAlert": false,
-    "gdpr": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "google-analytics": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(90346427, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/90346427\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
