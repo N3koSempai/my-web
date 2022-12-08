@@ -1403,18 +1403,12 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tgoZyb1fN8 .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-tgoZyb1fN8 .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
+    padding: 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-tgoZyb1fN8 .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-tgoZyb1fN8 .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
+    padding: 1rem;
   }
 }
 .cid-tgoZyb1fN8 .mbr-section-btn {
